@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Dexter page',
   author: 'Dexter',
-  email: 'hzhnan@qq.com',
+  email: 'q941307914@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
