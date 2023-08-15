@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Dexter page',
+  title: 'Dexter Security Insights',
   author: 'Dexter',
   email: 'q941307914@gmail.com',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://dexterpage.vercel.app',
+  description: 'This is a blog about cyber security. As I journey through the realm of cyber security, I jot down the insights and knowledge I gain.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
